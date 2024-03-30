@@ -1,4 +1,4 @@
-<html>
+ <html>
          <h1 style="font-size:50px;color: white;background-color:peru; text-align:center">Піцерія<br/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Supreme_pizza.jpg" height="150"/>
      </h1>
@@ -12,5 +12,6 @@
   <p>
       <img src="https://unopizza.com.ua/image/cache/catalog/pizza/pizzanew/kalcone-500x500.jpg" height="250"/>
   </p>
+  <p>Адреса: місто Звіринськ, вул. Зелена, 15</p>
 
 </html>
